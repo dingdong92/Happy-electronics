@@ -249,7 +249,7 @@ Please contact me regarding the home service.`;
             </div>
 
             <h2 className="text-4xl font-extrabold leading-tight tracking-tight text-slate-950 sm:text-5xl lg:text-6xl">
-             Trusted TV Repair in Eluru
+             Trusted TV Repair in El
 <span className="block text-blue-600">Home Service at Your Doorstep 🏠</span>
             </h2>
 
