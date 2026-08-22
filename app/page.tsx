@@ -249,8 +249,8 @@ Please contact me regarding the home service.`;
             </div>
 
             <h2 className="text-4xl font-extrabold leading-tight tracking-tight text-slate-950 sm:text-5xl lg:text-6xl">
-              Trusted LED & LCD TV Repair
-              <span className="block text-blue-600">at Your Doorstep</span>
+             Trusted TV Repair in Eluru
+<span className="block text-blue-600">Home Service at Your Doorstep 🏠</span>
             </h2>
 
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600">
